@@ -1,6 +1,6 @@
 ### Olá 👋
 <div style="width: 100%">
-    <div style="posistion: relative">
+    <div style="position: absolute">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perigorvladimir&layout=compact"/>
     </div>
     <div style="float: right; position: relative">
